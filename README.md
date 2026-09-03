@@ -3,7 +3,7 @@
 
 ## Hi there 👋, Anmol this side.
 ## 💫 About Me:
-- 🌱 I’m an Aspiring Software Engineer | AI & GenAI | Full-Stack & Backend Development | RAG • LLMs • Go • TypeScript • WebRTC • Docker<br>
+- 🌱 I’m a Software Engineer | AI & GenAI | Full-Stack & Backend Development | RAG • LLMs • Go • TypeScript • WebRTC • Docker<br>
 - 📫 Reach me out at **anmolkumar2003.work@gmail.com**<br>
 
 
