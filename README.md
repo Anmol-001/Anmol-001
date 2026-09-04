@@ -1,77 +1,287 @@
+# 👋 Hey, I'm Anmol.
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1E293B,100:334155&height=200&section=header&text=ANMOL%20KUMAR&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20AI%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20SYSTEMS&descAlignY=58&descSize=15" width="100%"/>
+</p>
 
+<p align="center">
+  <a href="https://github.com/Anmol-001">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=94A3B8&center=true&vCenter=true&width=650&lines=I+build+things+I+don't+fully+understand+yet.;Then+I+break+them+until+I+do.;AI+%C3%97+Backend+%C3%97+Real-Time+%C3%97+Product" />
+  </a>
+</p>
 
-## Hi there 👋, Anmol this side.
-## 💫 About Me:
-- 🌱 I’m a Software Engineer | AI & GenAI | Full-Stack & Backend Development | RAG • LLMs • Go • TypeScript • WebRTC • Docker<br>
-- 📫 Reach me out at **anmolkumar2003.work@gmail.com**<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,go,typescript,javascript,react,nextjs,nodejs,fastapi,postgres,mongodb,redis,docker&perline=7" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-BUILDING...-111827?style=flat-square&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/MODE-EXPERIMENTAL-111827?style=flat-square&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/COFFEE-OPTIONAL-111827?style=flat-square&labelColor=020617"/>
+</p>
 
+---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/discord-36393e?style=for-the-badge&logo=discord&logoColor=#5865F2)](https://discord.com/channels/@me)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=#0A66C2)](https://www.linkedin.com/in/anmol-kumar-17a292137/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AnmolKu07678666)
+## `whoami`
 
+```text
+$ ./anmol --about
 
+┌─────────────────────────────────────────────┐
+│                                             │
+│  Software Engineer                          │
+│  AI / GenAI                                │
+│  Full-Stack + Backend                      │
+│                                             │
+│  currently obsessed with                   │
+│  RAG • Agents • WebRTC • Systems            │
+│                                             │
+│  status: ████████████████████░  BUILDING    │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
-## 💻 Tech Stack:
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45" alt="C++" title="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python" title="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-    <img src = "https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" title="html"/>
-      <br>HTML
-    </td>
-    <td align="center" width="90">
-    <img src = "https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" title="css"/>
-      <br>CSS
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" title="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="JavaScript" title="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" title="React" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" title="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" title="Express.js" />
-      <br>Express.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45" height="45" alt="TypeScript" title="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" title="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="MySQL" title="MySQL" />
-      <br>MySQL
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" title="Postman" />
-      <br>Postman
-    </td>
+I enjoy turning **random ideas → working products → broken systems → better systems**.
 
-  </tr>
+My playground currently includes **AI applications, RAG pipelines, agentic workflows, real-time communication, backend architecture, and full-stack products.**
+
+---
+
+# 🧪 Things I'm Playing With
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/01-🧠%20AI%20×%20RAG-111827?style=for-the-badge"/>
+
+<br><br>
+
+`Embeddings` · `Vector Search`
+`LLMs` · `Agents` · `Tool Calling`
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python" width="42"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/02-⚡%20REAL--TIME-111827?style=for-the-badge"/>
+
+<br><br>
+
+`WebRTC` · `WebSockets`
+`Pion` · `SFU` · `Presence`
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=go" width="42"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/03-🏗️%20BACKEND-111827?style=for-the-badge"/>
+
+<br><br>
+
+`Go` · `Node.js`
+`PostgreSQL` · `Redis` · `Docker`
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres" width="84"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/04-🎨%20PRODUCT-111827?style=for-the-badge"/>
+
+<br><br>
+
+`React` · `Next.js`
+`TypeScript` · `UX` · `AI Products`
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs" width="84"/>
+
+</td>
+</tr>
 </table>
 
+---
 
+# 🧠 What I'm Curious About
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=64748B&center=true&vCenter=true&width=700&lines=Can+agents+actually+solve+multi-step+problems%3F;How+much+context+does+an+LLM+really+need%3F;What+happens+underneath+a+real-time+system%3F;How+do+products+survive+beyond+the+demo%3F;Where+should+AI+end+and+software+begin%3F" />
+</p>
+
+I like exploring these questions by **building instead of just reading about them.**
+
+---
+
+# 🧬 My Development Loop
+
+<p align="center">
+
+```text
+       💡 IDEA
+          │
+          ▼
+     🧪 EXPERIMENT
+          │
+          ▼
+       💻 BUILD
+          │
+          ▼
+       💥 BREAK
+          │
+          ▼
+       🔍 DEBUG
+          │
+          ▼
+    🧠 UNDERSTAND
+          │
+          ▼
+       🚀 SHIP
+          │
+          ╰───────────────↺
+```
+
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1500&color=94A3B8&center=true&vCenter=true&width=500&lines=repeat();+repeat();+repeat();+repeat();..." />
+</p>
+
+---
+
+# 🧰 My Toolbox
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,go,js,ts,html,css,react,nextjs,nodejs,express,fastapi,tailwind,postgres,mongodb,mysql,redis,docker,git,github,postman&perline=7"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI-Gemini-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-RAG-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-Agents-F97316?style=flat-square"/>
+<img src="https://img.shields.io/badge/Realtime-WebRTC-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Systems-Go-00ADD8?style=flat-square"/>
+
+</p>
+
+---
+
+# 📡 Current Signal
+
+<p align="center">
+
+```text
+                 SIGNAL DETECTED
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+        ▼              ▼              ▼
+
+       AI           BACKEND        SYSTEMS
+    ████████         ████████        ██████
+    ████████         ████████        ██████
+    ████████         ████████        ██████
+    ████████         ███████░        █████░
+       90%              82%             70%
+
+        │              │              │
+        └──────────────┼──────────────┘
+                       ▼
+
+                  WEBRTC / DSA
+                 ███████░░░░░
+                      ↓
+              still figuring it out
+
+                       ●
+                   ONLINE
+```
+
+</p>
+
+---
+
+# 🌊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anmol-001&show_icons=true&hide_border=true&theme=transparent&count_private=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol-001&hide_border=true&theme=transparent" height="165"/>
+
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-001&bg_color=00000000&color=64748B&line=94A3B8&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+</p>
+
+---
+
+# 🐍 Contribution Trail
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-001/Anmol-001/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/Anmol-001">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anmol-kumar-17a292137/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:anmolkumar2003.work@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<div align="center">
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│       BUILD  →  BREAK  →  LEARN  →  REPEAT  │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+### currently somewhere between
+
+### **"this should work"** and **"why did this crash?"**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Anmol-001&style=flat-square&color=64748B"/>
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:020617&height=110&section=footer" width="100%"/>
+</p>
