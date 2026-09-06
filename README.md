@@ -181,40 +181,7 @@ I like exploring these questions by **building instead of just reading about the
 
 </p>
 
----
 
-# 📡 Current Signal
-
-<p align="center">
-
-```text
-                 SIGNAL DETECTED
-                       │
-        ┌──────────────┼──────────────┐
-        │              │              │
-        ▼              ▼              ▼
-
-       AI           BACKEND        SYSTEMS
-    ████████         ████████        ██████
-    ████████         ████████        ██████
-    ████████         ████████        ██████
-    ████████         ███████░        █████░
-       90%              82%             70%
-
-        │              │              │
-        └──────────────┼──────────────┘
-                       ▼
-
-                  WEBRTC / DSA
-                 ███████░░░░░
-                      ↓
-              still figuring it out
-
-                       ●
-                   ONLINE
-```
-
-</p>
 
 ---
 
