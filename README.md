@@ -237,7 +237,21 @@ I like exploring these questions by **building instead of just reading about the
 # 🐍 Contribution Trail
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-001/Anmol-001/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Anmol-001/Anmol-001/output/github-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Anmol-001/Anmol-001/output/github-snake.svg"
+    >
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Anmol-001/Anmol-001/output/github-snake.svg"
+      width="95%"
+    >
+  </picture>
 </p>
 
 ---
