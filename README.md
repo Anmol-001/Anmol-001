@@ -218,18 +218,40 @@ I like exploring these questions by **building instead of just reading about the
 
 ---
 
+
 # 🌊 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anmol-001&show_icons=true&hide_border=true&theme=transparent&count_private=true&rank_icon=github" height="165"/>
+<a href="https://github.com/Anmol-001">
+  <img src="https://img.shields.io/github/followers/Anmol-001?style=for-the-badge&logo=github&label=Followers"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol-001&hide_border=true&theme=transparent" height="165"/>
+<a href="https://github.com/Anmol-001?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Anmol-001?style=for-the-badge&logo=github&label=Stars"/>
+</a>
+
+<a href="https://github.com/Anmol-001?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-001&bg_color=00000000&color=64748B&line=94A3B8&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anmol-001&theme=github_dark" width="95%"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anmol-001&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anmol-001&theme=github_dark" height="180"/>
+</p>
+
+<p align="center">
+  <i>Building in public, one commit at a time.</i>
 </p>
 
 ---
